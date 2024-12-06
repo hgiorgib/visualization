@@ -3,19 +3,58 @@
 ## Assignment 3: Data Visualization Ethics
 
 ### Requirements:
-- Let’s return to the data visualizations we evaluated for Assignment 2.  
-- For each visualization: 
+- Let's return to the data visualizations we evaluated for Assignment 2.  
+- For each visualization:
+
+### Good Visualization
+![iMac_evolution.png](./images/iMac_evolution.png)
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
 
+        * *Accessible:*
 
+        * *Reproducible:*
+
+        * *Equitable:*
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
 
+        * *Accessibility:*
+
+        * *Reproducibility:*
+
+        * *Equity:*
+
+        ```
+
+
+### Bad Visualization
+
+![rose_flower_field.png](./images/rose_flower_field.png)
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
+        ```
+        Your answer...
+
+        * *Accessible:*
+
+        * *Reproducible:*
+
+        * *Equitable:*
+
+        ```
+    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+        ```
+        Your answer...
+
+        * *Accessibility:*
+
+        * *Reproducibility:*
+
+        * *Equity:*
 
 
         ```
