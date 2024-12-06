@@ -3,20 +3,58 @@
 ## Assignment 3: Data Visualization Ethics
 
 ### Requirements:
-- Let’s return to the data visualizations we evaluated for Assignment 2.  
-- For each visualization: 
+- Let's return to the data visualizations we evaluated for Assignment 2.  
+- For each visualization:
+
+### Good Visualization
+![iMac_evolution.png](./images/iMac_evolution.png)
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
 
+        * Accessible: It's accessible because the information is presented with clear images, making it easy to interpret the scale of the axes within a timeline domain.
 
+        * Reproducible: The visualization does not appear to be reproducible, as it seems to have been developed in a non-programmatic way (no code is in the image).
+
+        * Equitable: Although the visualization covers technological aspects, it ensures that all users, regardless of their backgrounds, abilities, or experiences, can access, interpret, and benefit from the information presented.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
 
+        * Accessibility: Accessibility can be enhanced by adjusting the graph text configuration, including color, size, font type, and placement. Additionally, adding a title to the visualization can help convey the complete message more effectively.
 
+        * Reproducibility: Reproducibility can be enhanced by creating the image using code with tools like ggplot in R or matplotlib in Python.
+
+        * Equity:  Equity can be improved by providing alternative text for images to assist users with visual impairments.
+
+        ```
+
+
+### Bad Visualization
+
+![rose_flower_field.png](./images/rose_flower_field.png)
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
+        ```
+        Your answer...
+
+        * Accessible: It is not accessible because a large amount of text is packed into half of the visualization with minimal spacing, making it difficult to read. Additionally, the graph on the other half of the visualization has axes that are hard to identify due to unclear units or scale.
+
+        * Reproducible: This visualization was created using Tableau Public; therefore, it is not reproducible.
+
+        * Equitable: This visualization is not very equitable, as it contains barriers that prevent some audiences from accessing it. The design makes it complex to read and navigate, and the final message is unclear.
+
+        ```
+    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+        ```
+        Your answer...
+
+        * Accessibility: Accessibility can be improved by significantly reducing the amount of text, making it more concise, and using a larger font size with increased spacing. Additionally, for the graph, alternative descriptive text can be provided, and the axes can be enhanced with clearer labels and legends to make the graph easier to understand.
+
+        * Reproducibility: Reproducibility can be enhanced by creating the image using code with tools like ggplot in R or matplotlib in Python.
+
+        * Equity: Equity can be improved by completely redesigning the entire visualization, presenting it with more concise text, and improving its design to enhance accessibility, transparency, clarity, and inclusion.
 
         ```
 
