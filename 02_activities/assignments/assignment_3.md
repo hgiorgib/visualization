@@ -12,22 +12,22 @@
         ```
         Your answer...
 
-        * *Accessible:*
+        * Accessible: It's accessible because the information is presented with clear images, making it easy to interpret the scale of the axes within a timeline domain.
 
-        * *Reproducible:*
+        * Reproducible: The visualization does not appear to be reproducible, as it seems to have been developed in a non-programmatic way (no code is in the image).
 
-        * *Equitable:*
+        * Equitable: Although the visualization covers technological aspects, it ensures that all users, regardless of their backgrounds, abilities, or experiences, can access, interpret, and benefit from the information presented.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
 
-        * *Accessibility:*
+        * Accessibility: Accessibility can be enhanced by adjusting the graph text configuration, including color, size, font type, and placement. Additionally, adding a title to the visualization can help convey the complete message more effectively.
 
-        * *Reproducibility:*
+        * Reproducibility: Reproducibility can be enhanced by creating the image using code with tools like ggplot in R or matplotlib in Python.
 
-        * *Equity:*
+        * Equity:  Equity can be improved by providing alternative text for images to assist users with visual impairments.
 
         ```
 
@@ -39,23 +39,22 @@
         ```
         Your answer...
 
-        * *Accessible:*
+        * Accessible: It is not accessible because a large amount of text is packed into half of the visualization with minimal spacing, making it difficult to read. Additionally, the graph on the other half of the visualization has axes that are hard to identify due to unclear units or scale.
 
-        * *Reproducible:*
+        * Reproducible: This visualization was created using Tableau Public; therefore, it is not reproducible.
 
-        * *Equitable:*
+        * Equitable: This visualization is not very equitable, as it contains barriers that prevent some audiences from accessing it. The design makes it complex to read and navigate, and the final message is unclear.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
 
-        * *Accessibility:*
+        * Accessibility: Accessibility can be improved by significantly reducing the amount of text, making it more concise, and using a larger font size with increased spacing. Additionally, for the graph, alternative descriptive text can be provided, and the axes can be enhanced with clearer labels and legends to make the graph easier to understand.
 
-        * *Reproducibility:*
+        * Reproducibility: Reproducibility can be enhanced by creating the image using code with tools like ggplot in R or matplotlib in Python.
 
-        * *Equity:*
-
+        * Equity: Equity can be improved by completely redesigning the entire visualization, presenting it with more concise text, and improving its design to enhance accessibility, transparency, clarity, and inclusion.
 
         ```
 
