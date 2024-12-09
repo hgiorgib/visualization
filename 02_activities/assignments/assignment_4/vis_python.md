@@ -10,7 +10,7 @@ The dataset, titled Short Term Rentals Registration, includes details on short-t
 
 ## Data Features
 
-![dataset_features.png](/images/dataset_features.PNG)
+![dataset_features](/images/dataset_features.PNG)
 
 ## Definitions
 
@@ -30,4 +30,4 @@ https://open.toronto.ca/dataset/short-term-rentals-registration/
 
 ## Visualization
 
-![vis_python.png](/images/vis_python.PNG)
+![visualization_python](/images/vis_python.PNG)
