@@ -25,11 +25,11 @@
     
     Design principles applied to the visualization
 
-    Aesthetic (Pleasing to Look At): Chose a cyan color scheme with black text and white background for a clean, visually appealing design. additionally, used outlines on bars enhance clarity without clutter.
+    *Aesthetic (Pleasing to Look At):* Chose a cyan color scheme with black text and white background for a clean, visually appealing design. additionally, used outlines on bars enhance clarity without clutter.
 
-    Substantive (Accurate Data Presentation): Displayed the top 10 wards based on property count, ensuring an honest and clear data representation. Additionally, carefully placed gridlines and axis labels for accurate interpretation.
+    *Substantive (Accurate Data Presentation):* Displayed the top 10 wards based on property count, ensuring an honest and clear data representation. Additionally, carefully placed gridlines and axis labels for accurate interpretation.
 
-    Perceptual (Clear Message): Rotated x-axis labels to avoid overlap, ensuring ward names are easy to read and the message is clear.
+    *Perceptual (Clear Message):* Rotated x-axis labels to avoid overlap, ensuring ward names are easy to read and the message is clear.
 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     
@@ -39,11 +39,11 @@
 
     I ensured that my visualization was accessible by using:
 
-    Clarity and Simplicity: Focused on the top 10 wards with the most properties to present concise, easy-to-understand information. Additionally, rotated x-axis labels to prevent text overlap.
+    *Clarity and Simplicity:* Focused on the top 10 wards with the most properties to present concise, easy-to-understand information. Additionally, rotated x-axis labels to prevent text overlap.
 
-    Barrier-Free Presentation: i) Used a high-contrast color scheme: cyan bars, white background, and black fonts to improve readability,  ii) Added gridlines for better alignment and clarity, and iii) Enhanced bar outlines for clearer definition.
+    *Barrier-Free Presentation:* i) Used a high-contrast color scheme: cyan bars, white background, and black fonts to improve readability,  ii) Added gridlines for better alignment and clarity, and iii) Enhanced bar outlines for clearer definition.
 
-    Appropriate Text Design: Ensured labels, legends, and titles use clear, simple text and spacing to reduce cognitive load.
+    *Appropriate Text Design*: Ensured labels, legends, and titles use clear, simple text and spacing to reduce cognitive load.
    
     > Who are the individuals and communities who might be impacted by your visualization?
 
@@ -53,9 +53,9 @@
 
     I chose dataset features for my visualization by focusing on showcasing the distribution of short-term rental properties across Toronto wards.
 
-    Included Features: i) ward_name to identify wards, ii)Counts of properties grouped by ward_name to highlight the distribution, and iii) A filter for the top 10 wards to focus on the most impactful areas.
+    *Included Features:* i) ward_name to identify wards, ii)Counts of properties grouped by ward_name to highlight the distribution, and iii) A filter for the top 10 wards to focus on the most impactful areas.
 
-    Excluded Features: Details like operator_registration_number, unit, and address, as they are granular and irrelevant to ward-level insights.
+    *Excluded Features:* Details like operator_registration_number, unit, and address, as they are granular and irrelevant to ward-level insights.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
@@ -79,11 +79,11 @@
     
     For my Tableau visualization, I applied:
 
-    Substantive: Ensured accurate data representation by clearly labeling counts and focusing on 40 relevant postal codes.
+    *Substantive:* Ensured accurate data representation by clearly labeling counts and focusing on 40 relevant postal codes.
 
-    Perceptual: Used map-based plotting, proportional marker sizes, and labels to convey patterns clearly.
+    *Perceptual:* Used map-based plotting, proportional marker sizes, and labels to convey patterns clearly.
 
-    Aesthetic: Balanced colors and marker sizes for a clean, engaging, and visually appealing design.
+    *Aesthetic:* Balanced colors and marker sizes for a clean, engaging, and visually appealing design.
 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     
@@ -93,11 +93,11 @@
     
     I ensured accessibility in my Tableau visualization by designing it with clarity, simplicity, and inclusiveness in mind:
 
-    Ease of Understanding: Selected and designed graph variables that are intuitive for the general public, avoiding excessive information to reduce cognitive workload.
+    *Ease of Understanding:* Selected and designed graph variables that are intuitive for the general public, avoiding excessive information to reduce cognitive workload.
 
-    Visual Contrast: Used indigo data points against a grey map for high contrast, making the rental density visually distinct.
+    *Visual Contrast:* Used indigo data points against a grey map for high contrast, making the rental density visually distinct.
 
-    Clear Annotations: Included labels, a title, a legend, and Alt-text in the caption to describe the visualization comprehensively and provide context for assistive technologies.
+    *Clear Annotations:* Included labels, a title, a legend, and Alt-text in the caption to describe the visualization comprehensively and provide context for assistive technologies.
 
     These choices align with accessibility principles by making the visualization clear, predictable, and barrier-free for diverse audiences.
 
@@ -109,9 +109,9 @@
     
     I chose dataset features for my visualization by based on their relevance to geographic and density insights.
 
-    Included Features: i) Longitude and Latitude to map the rentals spatially, ii) Postal Code to show localized concentration and trends, and iii) Count of Postal Code to represent the density of rentals visually.
+    *Included Features:* i) Longitude and Latitude to map the rentals spatially, ii) Postal Code to show localized concentration and trends, and iii) Count of Postal Code to represent the density of rentals visually.
 
-    Excluded Features: Details like address, unit, or operator_registration_number, as they are too granular and not necessary for geographic insights.
+    *Excluded Features:* Details like address, unit, or operator_registration_number, as they are too granular and not necessary for geographic insights.
 
     > What ‘underwater labour’ contributed to your final data visualization product?
 
